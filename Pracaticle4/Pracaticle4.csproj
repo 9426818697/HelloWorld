@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F7587B34-ED06-42E0-9974-365E513B42DC}</ProjectGuid>
+    <ProjectGuid>{29FB1AA6-EA48-4377-BB7C-C6DA8BABBE35}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Pracaticle1</RootNamespace>
-    <AssemblyName>Pracaticle1</AssemblyName>
+    <RootNamespace>Pracaticle4</RootNamespace>
+    <AssemblyName>Pracaticle4</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -35,8 +35,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Drawing" />
-    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
