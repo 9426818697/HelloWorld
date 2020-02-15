@@ -1,6 +1,0 @@
-C:\Users\oza\source\repos\DotNetPracaticle\Pracaticle4\bin\Debug\Pracaticle4.exe.config
-C:\Users\oza\source\repos\DotNetPracaticle\Pracaticle4\bin\Debug\Pracaticle4.exe
-C:\Users\oza\source\repos\DotNetPracaticle\Pracaticle4\bin\Debug\Pracaticle4.pdb
-C:\Users\oza\source\repos\DotNetPracaticle\Pracaticle4\obj\Debug\Pracaticle4.csproj.CoreCompileInputs.cache
-C:\Users\oza\source\repos\DotNetPracaticle\Pracaticle4\obj\Debug\Pracaticle4.exe
-C:\Users\oza\source\repos\DotNetPracaticle\Pracaticle4\obj\Debug\Pracaticle4.pdb

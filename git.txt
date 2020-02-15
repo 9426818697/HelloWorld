@@ -1,0 +1,8 @@
+git status
+git add .
+git status
+git commit -m "first commit"
+git remote add origin https://github.com/9426818697/Praticale3.git
+git push -u origin master
+
+cd /C/Users/oza/

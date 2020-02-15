@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Pracaticle3")]
+[assembly: AssemblyTitle("Pracaticle6")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Pracaticle3")]
+[assembly: AssemblyProduct("Pracaticle6")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("7740ff58-50b2-4b6f-b038-8326b71ca656")]
+[assembly: Guid("88d8c625-5ff9-4fbf-b84e-59aaf1b4116f")]
 
 // Version information for an assembly consists of the following four values:
 //

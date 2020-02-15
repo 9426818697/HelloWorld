@@ -1,0 +1,7 @@
+C:\Users\oza\source\repos\DotNetPracaticle\Practicle4\bin\Debug\Practicle4.exe.config
+C:\Users\oza\source\repos\DotNetPracaticle\Practicle4\bin\Debug\Practicle4.exe
+C:\Users\oza\source\repos\DotNetPracaticle\Practicle4\bin\Debug\Practicle4.pdb
+C:\Users\oza\source\repos\DotNetPracaticle\Practicle4\obj\Debug\Practicle4.csproj.CoreCompileInputs.cache
+C:\Users\oza\source\repos\DotNetPracaticle\Practicle4\obj\Debug\Practicle4.exe
+C:\Users\oza\source\repos\DotNetPracaticle\Practicle4\obj\Debug\Practicle4.pdb
+C:\Users\oza\source\repos\DotNetPracaticle\Practicle4\obj\Debug\Practicle4.csprojAssemblyReference.cache
