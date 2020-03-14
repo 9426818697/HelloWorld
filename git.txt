@@ -1,7 +1,8 @@
+cd /C/Users/oza/source/repos/DotNetPracaticle/
 git status
 git add .
 git status
-git commit -m "first commit"
+git commit -m "first commit"->in git profile name
 git remote add origin https://github.com/9426818697/Praticale3.git
 git push -u origin master
 

@@ -1,0 +1,7 @@
+C:\Users\oza\source\repos\DotNetPracaticle\Pracaticle5\bin\Debug\Pracaticle5.exe.config
+C:\Users\oza\source\repos\DotNetPracaticle\Pracaticle5\bin\Debug\Pracaticle5.exe
+C:\Users\oza\source\repos\DotNetPracaticle\Pracaticle5\bin\Debug\Pracaticle5.pdb
+C:\Users\oza\source\repos\DotNetPracaticle\Pracaticle5\obj\Debug\Pracaticle5.csprojAssemblyReference.cache
+C:\Users\oza\source\repos\DotNetPracaticle\Pracaticle5\obj\Debug\Pracaticle5.csproj.CoreCompileInputs.cache
+C:\Users\oza\source\repos\DotNetPracaticle\Pracaticle5\obj\Debug\Pracaticle5.exe
+C:\Users\oza\source\repos\DotNetPracaticle\Pracaticle5\obj\Debug\Pracaticle5.pdb

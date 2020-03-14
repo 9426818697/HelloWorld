@@ -1,0 +1,6 @@
+C:\Users\oza\source\repos\DotNetPracaticle\Pracaticle8\bin\Debug\Pracaticle8.exe.config
+C:\Users\oza\source\repos\DotNetPracaticle\Pracaticle8\bin\Debug\Pracaticle8.exe
+C:\Users\oza\source\repos\DotNetPracaticle\Pracaticle8\bin\Debug\Pracaticle8.pdb
+C:\Users\oza\source\repos\DotNetPracaticle\Pracaticle8\obj\Debug\Pracaticle8.csproj.CoreCompileInputs.cache
+C:\Users\oza\source\repos\DotNetPracaticle\Pracaticle8\obj\Debug\Pracaticle8.exe
+C:\Users\oza\source\repos\DotNetPracaticle\Pracaticle8\obj\Debug\Pracaticle8.pdb

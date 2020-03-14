@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{88D8C625-5FF9-4FBF-B84E-59AAF1B4116F}</ProjectGuid>
+    <ProjectGuid>{4678FD82-1FDE-466A-81DE-2750B3C76C04}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Pracaticle6</RootNamespace>
-    <AssemblyName>Pracaticle6</AssemblyName>
+    <RootNamespace>Pracaticle8</RootNamespace>
+    <AssemblyName>Pracaticle8</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
